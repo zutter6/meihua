@@ -158,7 +158,6 @@ async def root():
                 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" class="avatar" alt="avatar"/>
                 <h1>Meihua Now</h1>
                 <p>欢迎来到 Meihua Now 主页！<br>这是一个个人项目展示页面。</p>
-                <p>如需联系或了解更多，请访问 <a href="https://github.com/user/geminicli2api" target="_blank">GitHub 项目</a>。</p>
                 <div class="footer">© 2024 Meihua Now</div>
             </div>
         </body>
